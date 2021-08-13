@@ -2,7 +2,7 @@
 	{
 		"phrase": "Cluster spawn",
 		"comment": "In-game point text",
-		"translation": "Групповое возрождение"
+		"translation": "Кластерное возрождение"
 	},
 	{
 		"phrase": "Damage",
@@ -22,8 +22,7 @@
 	{
 		"phrase": "Disruptor assist",
 		"comment": "In-game point text",
-		"translation": "Ассистент дезинтегратора",
-		"machine": true
+		"translation": "Помощь Дизраптором",
 	},
 	{
 		"phrase": "Headshot",
@@ -58,7 +57,7 @@
 	{
 		"phrase": "Scanner assist",
 		"comment": "In-game point text",
-		"translation": "Обнаружение"
+		"translation": "Помощь сканированием"
 	},
 	{
 		"phrase": "C4 destroyed",
@@ -68,34 +67,32 @@
 	{
 		"phrase": "Disruptor destroyed",
 		"comment": "In-game point text",
-		"translation": "Дисраптор уничтожен",
-		"machine": true
+		"translation": "Уничтожение Дизраптора",
 	},
 	{
 		"phrase": "Avenger",
 		"comment": "In-game point text",
-		"translation": "Месть"
+		"translation": "Мститель"
 	},
 	{
 		"phrase": "Saviour",
 		"comment": "[Progression Name]",
-		"translation": "Спасение"
+		"translation": "Спаситель"
 	},
 	{
 		"phrase": "Flag capture",
 		"comment": "In-game point text",
-		"translation": "Захват флага",
-		"machine": true
+		"translation": "Флаг захвачен",	
 	},
 	{
 		"phrase": "Flag carry",
 		"comment": "In-game point text",
-		"translation": "Перенос флаг"
+		"translation": "Перенос флага"
 	},
 	{
 		"phrase": "Flag return",
 		"comment": "In-game point text",
-		"translation": "Возврат флага"
+		"translation": "Флаг возвращен"
 	},
 	{
 		"phrase": "Flag attack",
@@ -120,7 +117,7 @@
 	{
 		"phrase": "Bomb deliver",
 		"comment": "In-game point text",
-		"translation": "Доставка бомбы"
+		"translation": "Бомба доставлена"
 	},
 	{
 		"phrase": "Bomb carry",
@@ -130,8 +127,7 @@
 	{
 		"phrase": "Bomb defuse",
 		"comment": "In-game point text",
-		"translation": "Обезвреживание бомбы",
-		"machine": true
+		"translation": "Бомба обезврежена",
 	},
 	{
 		"phrase": "Bomb attack",
@@ -146,8 +142,7 @@
 	{
 		"phrase": "Spot assist",
 		"comment": "In-game point text",
-		"translation": "Точечная помощь",
-		"machine": true
+		"translation": "Обнаружение",
 	},
 	{
 		"phrase": "Attacking",
@@ -162,22 +157,22 @@
 	{
 		"phrase": "Contesting",
 		"comment": "In-game point text",
-		"translation": "Удержание"
+		"translation": "Противостояние"
 	},
 	{
 		"phrase": "Canister capture",
 		"comment": "In-game point text",
-		"translation": "Захват канистры"
+		"translation": "Канистра захвачена"
 	},
 	{
 		"phrase": "Zone capture",
 		"comment": "In-game point text",
-		"translation": "Захват зоны"
+		"translation": "Зона захвачена"
 	},
 	{
 		"phrase": "Beacon capture",
 		"comment": "In-game point text",
-		"translation": "Захват маяка"
+		"translation": "Маяк захвачен"
 	},
 	{
 		"phrase": "Beacon destroyed",
@@ -205,12 +200,11 @@
 		"phrase": "Assist",
 		"comment": "In-game point text",
 		"translation": "Помощь",
-		"machine": true
 	},
 	{
 		"phrase": "Assist counts as kill",
 		"comment": "In-game point text",
-		"translation": "Убийство с помощью"
+		"translation": "Считается за убийство"
 	},
 	{
 		"phrase": "Fortifying",
@@ -221,7 +215,6 @@
 		"phrase": "Most Valuable Player",
 		"comment": "Medal name",
 		"translation": "Самый ценный игрок",
-		"machine": true
 	},
 	{
 		"phrase": "Annihilator",
@@ -231,8 +224,7 @@
 	{
 		"phrase": "Marksman",
 		"comment": "Medal name",
-		"translation": "Стрелок",
-		"machine": true
+		"translation": "Снайпер",
 	},
 	{
 		"phrase": "Creator",
@@ -253,18 +245,16 @@
 		"phrase": "Defender",
 		"comment": "Medal name",
 		"translation": "Защитник",
-		"machine": true
 	},
 	{
 		"phrase": "Impaler",
 		"comment": "Medal name",
-		"translation": "Боец"
+		"translation": "Рубака"
 	},
 	{
 		"phrase": "Resilient",
 		"comment": "Medal name",
-		"translation": "Устойчивый",
-		"machine": true
+		"translation": "Непоколебимый",
 	},
 	{
 		"phrase": "Assistance",
@@ -381,19 +371,17 @@
 	{
 		"phrase": "Kicked by a moderator",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Изгнан модератором"
+		"translation": "Выгнан модератором"
 	},
 	{
 		"phrase": "Already in game",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Уже в игре",
-		"machine": true
 	},
 	{
 		"phrase": "Authentication failed",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Ошибка аутентификации",
-		"machine": true
 	},
 	{
 		"phrase": "Banned",
