@@ -355,12 +355,12 @@
 	{
 		"phrase": "Spire",
 		"comment": "Game mode name",
-		"translation": "Арена"
+		"translation": "Вверх"
 	},
 	{
 		"phrase": "Static",
 		"comment": "Game mode name",
-		"translation": "Командный бой"
+		"translation": "Статика"
 	},
 	{
 		"phrase": "All",
@@ -402,7 +402,7 @@
 	{
 		"phrase": "Kicked for inactivity",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Изгнан за бездействие"
+		"translation": "Выгнан за бездействие"
 	},
 	{
 		"phrase": "Internal error",
@@ -504,7 +504,7 @@
 	{
 		"phrase": "Reserved slot expired",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Зарезервированный слот истек",
+		"translation": "Время резервации слота истекло",
 		"machine": true
 	},
 	{
@@ -523,13 +523,11 @@
 		"phrase": "Accelerator",
 		"comment": "Barrel attachment name",
 		"translation": "Ускоритель",
-		"machine": true
 	},
 	{
 		"phrase": "Beam splitter",
 		"comment": "Barrel attachment name",
-		"translation": "Разделитель луча",
-		"machine": true
+		"translation": "Лучевой разделитель",
 	},
 	{
 		"phrase": "Choke",
