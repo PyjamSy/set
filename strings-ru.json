@@ -157,7 +157,7 @@
 	{
 		"phrase": "Contesting",
 		"comment": "In-game point text",
-		"translation": "Противостояние"
+		"translation": "Оспаривание"
 	},
 	{
 		"phrase": "Canister capture",
@@ -189,7 +189,6 @@
 		"phrase": "Round win",
 		"comment": "In-game point text",
 		"translation": "Победа в раунде",
-		"machine": true
 	},
 	{
 		"phrase": "Round survive",
@@ -249,7 +248,7 @@
 	{
 		"phrase": "Impaler",
 		"comment": "Medal name",
-		"translation": "Рубака"
+		"translation": "Пронзатель"
 	},
 	{
 		"phrase": "Resilient",
@@ -264,44 +263,37 @@
 	{
 		"phrase": "Impacter",
 		"comment": "Medal name",
-		"translation": "Импактер",
-		"machine": true
+		"translation": "Подрывник",
 	},
 	{
 		"phrase": "Infiltrator",
 		"comment": "Medal name",
 		"translation": "Разведчик",
-		"machine": true
 	},
 	{
 		"phrase": "Team placement",
 		"comment": "[Scoreboard] Player joining status",
 		"translation": "Размещение команды",
-		"machine": true
 	},
 	{
 		"phrase": "Connecting",
 		"comment": "[Scoreboard] Player joining status",
 		"translation": "Подключение",
-		"machine": true
 	},
 	{
 		"phrase": "Loading Map",
 		"comment": "[Scoreboard] Player joining status",
 		"translation": "Загрузка карты",
-		"machine": true
 	},
 	{
 		"phrase": "None",
 		"comment": "[Scoreboard] Player joining status",
 		"translation": "Никто",
-		"machine": true
 	},
 	{
 		"phrase": "Playing",
 		"comment": "[Scoreboard] Player joining status",
 		"translation": "Играет",
-		"machine": true
 	},
 	{
 		"phrase": "Reserved (party)",
@@ -312,19 +304,16 @@
 		"phrase": "Selecting a team",
 		"comment": "[Scoreboard] Player joining status",
 		"translation": "Выбор команды",
-		"machine": true
 	},
 	{
 		"phrase": "Spectating",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Наблюдение",
-		"machine": true
+		"translation": "Наблюдатель",
 	},
 	{
 		"phrase": "Left",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Левый",
-		"machine": true
+		"translation": "Вышел",
 	},
 	{
 		"phrase": "Breakthrough",
@@ -340,7 +329,6 @@
 		"phrase": "Capture the Flag",
 		"comment": "Game mode name",
 		"translation": "Захват флага",
-		"machine": true
 	},
 	{
 		"phrase": "Gun Game",
@@ -355,12 +343,12 @@
 	{
 		"phrase": "Spire",
 		"comment": "Game mode name",
-		"translation": "Вверх"
+		"translation": "Пик"
 	},
 	{
 		"phrase": "Static",
 		"comment": "Game mode name",
-		"translation": "Статика"
+		"translation": "Статик"
 	},
 	{
 		"phrase": "All",
@@ -371,7 +359,7 @@
 	{
 		"phrase": "Kicked by a moderator",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Выгнан модератором"
+		"translation": "Исключен модератором"
 	},
 	{
 		"phrase": "Already in game",
@@ -402,7 +390,7 @@
 	{
 		"phrase": "Kicked for inactivity",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Выгнан за бездействие"
+		"translation": "Исключен за бездействие"
 	},
 	{
 		"phrase": "Internal error",
@@ -413,7 +401,6 @@
 		"phrase": "Map is restoring. Try again in 10 seconds",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Карта восстанавливается. попробуйте еще раз через 10 секунд",
-		"machine": true
 	},
 	{
 		"phrase": "Network Error",
@@ -429,7 +416,6 @@
 		"phrase": "Reconnecting",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Повторное подключение",
-		"machine": true
 	},
 	{
 		"phrase": "Server is restarting",
@@ -449,7 +435,7 @@
 	{
 		"phrase": "Votekicked",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Изгнан голосованием"
+		"translation": "Исключен голосованием"
 	},
 	{
 		"phrase": "Votekick still in effect",
@@ -505,19 +491,16 @@
 		"phrase": "Reserved slot expired",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Время резервации слота истекло",
-		"machine": true
 	},
 	{
 		"phrase": "Min level must be less than max level",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Минимальный уровень должен быть меньше максимального.",
-		"machine": true
 	},
 	{
 		"phrase": "Bot Replacement",
 		"comment": "Reason for being disconnected from a server",
 		"translation": "Замена бота",
-		"machine": true
 	},
 	{
 		"phrase": "Accelerator",
@@ -532,8 +515,7 @@
 	{
 		"phrase": "Choke",
 		"comment": "Barrel attachment name",
-		"translation": "Удушение",
-		"machine": true
+		"translation": "Чок",
 	},
 	{
 		"phrase": "Default",
@@ -544,43 +526,36 @@
 		"phrase": "Extended",
 		"comment": "Barrel attachment name",
 		"translation": "Расширенный",
-		"machine": true
 	},
 	{
 		"phrase": "Resonator",
 		"comment": "Barrel attachment name",
 		"translation": "Резонатор",
-		"machine": true
 	},
 	{
 		"phrase": "Silencer",
 		"comment": "Barrel attachment name",
 		"translation": "Глушитель",
-		"machine": true
 	},
 	{
 		"phrase": "Medium",
 		"comment": "Barrel attachment name",
-		"translation": "Середина",
-		"machine": true
+		"translation": "Средний",
 	},
 	{
 		"phrase": "Short",
 		"comment": "Barrel attachment name",
 		"translation": "Короткий",
-		"machine": true
 	},
 	{
 		"phrase": "Angled",
 		"comment": "Attachment name",
 		"translation": "Угловой",
-		"machine": true
 	},
 	{
 		"phrase": "Removed",
 		"comment": "Attachment name",
 		"translation": "Удаленный",
-		"machine": true
 	},
 	{
 		"phrase": "Stubby",
@@ -598,73 +573,61 @@
 		"phrase": "Buckshot",
 		"comment": "Ammo type name",
 		"translation": "Картечь",
-		"machine": true
 	},
 	{
 		"phrase": "Burst",
 		"comment": "Ammo type name",
-		"translation": "Лопаться",
-		"machine": true
+		"translation": "Очередь",
 	},
 	{
 		"phrase": "Lethal",
 		"comment": "Ammo type name",
-		"translation": "Смертельный",
-		"machine": true
+		"translation": "Смертельные",
 	},
 	{
 		"phrase": "Heavy",
 		"comment": "Ammo type name",
-		"translation": "Тяжелый",
-		"machine": true
+		"translation": "Тяжелые",
 	},
 	{
 		"phrase": "Light",
 		"comment": "Ammo type name",
-		"translation": "Свет",
-		"machine": true
+		"translation": "Легкие",
 	},
 	{
 		"phrase": "Piercing",
 		"comment": "Ammo type name",
-		"translation": "Пирсинг",
-		"machine": true
+		"translation": "Проникающие",
 	},
 	{
 		"phrase": "Ricochet",
 		"comment": "Ammo type name",
-		"translation": "Рикошет",
-		"machine": true
+		"translation": "Рикошетные",
 	},
 	{
 		"phrase": "Slug",
 		"comment": "Ammo type name",
-		"translation": "Слизняк",
-		"machine": true
+		"translation": "Пуля",
 	},
 	{
 		"phrase": "Tow",
 		"comment": "Ammo type name",
-		"translation": "Буксировка",
-		"machine": true
+		"translation": "Самонаводящиеся",
 	},
 	{
 		"phrase": "Corrosive",
 		"comment": "Payload attachment name",
-		"translation": "Едкий",
-		"machine": true
+		"translation": "Коррозийные",
 	},
 	{
 		"phrase": "Explosive",
 		"comment": "Payload attachment name",
-		"translation": "Взрывчатое вещество",
-		"machine": true
+		"translation": "Разрывные",
 	},
 	{
 		"phrase": "Incendiary",
 		"comment": "Payload attachment name",
-		"translation": "Зажигательный",
-		"machine": true
+		"translation": "Зажигательные"
 	},
 	{
 		"phrase": "Base",
@@ -705,74 +668,62 @@
 	{
 		"phrase": "Single",
 		"comment": "Core attachment name, i.e. single shot vs automatic fire",
-		"translation": "Одинокий",
-		"machine": true
+		"translation": "Одиночный",
 	},
 	{
 		"phrase": "Automatic",
 		"comment": "Core attachment name, i.e. single shot vs automatic fire",
 		"translation": "Автоматический",
-		"machine": true
 	},
 	{
 		"phrase": "Sniper",
 		"comment": "Weapon category name",
-		"translation": "Снайпер",
-		"machine": true
+		"translation": "Снайперские винтовки",
 	},
 	{
 		"phrase": "Rifle",
 		"comment": "Weapon category name",
-		"translation": "Винтовка",
-		"machine": true
+		"translation": "Винтовки",
 	},
 	{
 		"phrase": "SMG",
 		"comment": "Weapon category name",
-		"translation": "SMG",
-		"machine": true
+		"translation": "ПП",
 	},
 	{
 		"phrase": "Shotgun",
 		"comment": "Weapon category name",
-		"translation": "Дробовик",
-		"machine": true
+		"translation": "Дробовики",
 	},
 	{
 		"phrase": "Pistol",
 		"comment": "Weapon category name",
-		"translation": "Пистолет",
-		"machine": true
+		"translation": "Пистолеты",
 	},
 	{
 		"phrase": "Equipment",
 		"comment": "Weapon category name",
 		"translation": "Оборудование",
-		"machine": true
 	},
 	{
 		"phrase": "Other",
 		"comment": "Weapon category name",
-		"translation": "Другой",
-		"machine": true
+		"translation": "Другое",
 	},
 	{
 		"phrase": "Ironsights",
 		"comment": "Sight attachment name",
-		"translation": "Прицелы",
-		"machine": true
+		"translation": "Стандартный прицел",
 	},
 	{
 		"phrase": "Broken Circle",
 		"comment": "Crosshair name",
 		"translation": "Разорванный круг",
-		"machine": true
 	},
 	{
 		"phrase": "Broken Square",
 		"comment": "Crosshair name",
-		"translation": "Разбитый квадрат",
-		"machine": true
+		"translation": "Разорванный квадрат",
 	},
 	{
 		"phrase": "Chevron",
